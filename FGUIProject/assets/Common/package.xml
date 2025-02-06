@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7yssnvsy">
+  <resources>
+    <component id="kt0s0" name="TestWindow.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
